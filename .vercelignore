@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/tests
+/deploy
+/storage/logs/*
+.env
+.env.*
+!.env.example
+ecoknights.sql
+*.sql
